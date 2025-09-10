@@ -122,8 +122,8 @@
 @media(max-width:768px){
     .contact{
         gap: 50px;
-        margin: 50px 70px;
-        align-items: start;
+        margin: 50px 40px;
+        align-items: center;
     }
     .contact-title h1{
         padding: 0;
@@ -153,11 +153,11 @@
         font-size: 20px;
     }
     .contact-right input{
-        width: 100%;
+        width: 90%;
         font-size: 20px;
     }
     .contact-right textarea{
-        width: 95%;
+        width: 80%;
         font-size: 20px;
     }
     .contact-submit{

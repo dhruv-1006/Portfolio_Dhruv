@@ -78,7 +78,7 @@
     transition: 0.4s;
 }
 
-@media(max-width:768px){
+/* @media(max-width:768px){
     .services{
         align-items: start;
         gap: 70px;
@@ -111,4 +111,10 @@
         grid-template-columns: 1fr 1fr;
         gap: 30px;
     }
-}
+} */
+
+@media (max-width: 768px) {
+    .services {
+      display: none;
+    }
+  }  
