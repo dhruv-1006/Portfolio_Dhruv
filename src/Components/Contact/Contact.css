@@ -143,25 +143,16 @@
     .contact-left p{
         font-size: 18px;
     }
+    .contact-details{
+        margin-bottom: 40px;
+    }
     .contact-detail{
         gap: 20px;
     }
     .contact-detail img{
         width: 25px;
     }
-    .contact-right label{
-        font-size: 20px;
-    }
-    .contact-right input{
-        width: 90%;
-        font-size: 20px;
-    }
-    .contact-right textarea{
-        width: 80%;
-        font-size: 20px;
-    }
-    .contact-submit{
-        font-size: 20px;
-        padding: 15px 40px;
+    .contact-right{
+        display: none;
     }
 }

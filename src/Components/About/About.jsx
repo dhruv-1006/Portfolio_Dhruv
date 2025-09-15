@@ -17,8 +17,11 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, temporibus in aspernatur maiores veritatis est! Lorem ipsum dolor sit amet.</p>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus aperiam voluptatum vitae recusandae debitis doloribus? Lorem ipsum dolor sit amet.</p>
+                    <p>I am a passionate MERN Stack Developer skilled in building scalable web applications with MongoDB, Express, React, and Node.js. I love solving real-world problems using clean code and modern technologies.</p>
+                    <p>Currently, I am exploring AWS Cloud to integrate secure, scalable, and efficient deployment solutions. I aim to combine full-stack development with cloud expertise to create impactful digital products.</p>
+
+                    
+
                 </div>
                 <div className="about-skills">
                     <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"50%"}} /></div>
