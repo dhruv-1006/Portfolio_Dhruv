@@ -44,10 +44,10 @@ const Contact = () => {
                 <p>I’m always open to discussing new projects, creative ideas, or opportunities to collaborate in web development and cloud solutions. <br /> Feel free to reach out, and let’s build something amazing together !! </p>
                 <div className="contact-details">
                     <div className="contact-detail">
-                        <img src={mail_icon} alt="" /> <p>dhruvbairagi123@gmail.com</p>
+                        <img src={mail_icon} alt="" /> <p>dhruv.bairagi27@gmail.com</p>
                     </div>
                     <div className="contact-detail">
-                        <img src={call_icon} alt="" /> <p>1234567890</p>
+                        <img src={call_icon} alt="" /> <p>7440561006</p>
                     </div>
                     <div className="contact-detail">
                         <img src={location_icon} alt="" /> <p>Jaipur (R.J.)</p>
